@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snes on Terminal</title>
+    <link>//localhost:4015/snes/</link>
+    <description>Recent content in Snes on Terminal</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4015/snes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Super Mario Kart</title>
+      <link>//localhost:4015/snes/super-mario-kart/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/snes/super-mario-kart/</guid>
+      <description>&lt;h1 id=&#34;super-mario-kart&#34;&gt;Super Mario Kart&lt;/h1&gt;&#xA;&lt;p&gt;Lanzado en 1992, &lt;strong&gt;Super Mario Kart&lt;/strong&gt; revolucionó el género de carreras al introducir &lt;em&gt;power-ups&lt;/em&gt;, circuitos temáticos y competencia multijugador local que definió las reuniones gamer de los 90.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;jugabilidad&#34;&gt;Jugabilidad&lt;/h2&gt;&#xA;&lt;p&gt;El juego presenta 8 personajes del universo de Mario y circuitos llenos de trampas, rampas y superficies resbaladizas.&lt;br&gt;&#xA;Las pistas de la &lt;strong&gt;Copa Champiñón&lt;/strong&gt; y la &lt;strong&gt;Copa Estrella&lt;/strong&gt; son legendarias por su dificultad.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Controles sencillos pero con profundidad estratégica.&lt;/li&gt;&#xA;&lt;li&gt;Modo multijugador versus y batalla con globos.&lt;/li&gt;&#xA;&lt;li&gt;Uso del chip &lt;strong&gt;Mode 7&lt;/strong&gt; del SNES para simular pseudo-3D.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG&#34; alt=&#34;Super Mario Kart&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Super Metroid</title>
+      <link>//localhost:4015/snes/super-metroid/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/snes/super-metroid/</guid>
+      <description>&lt;h1 id=&#34;super-metroid&#34;&gt;Super Metroid&lt;/h1&gt;&#xA;&lt;p&gt;Lanzado en 1994 para Super Nintendo, &lt;strong&gt;Super Metroid&lt;/strong&gt; es uno de los juegos más influyentes de todos los tiempos.&lt;br&gt;&#xA;Su atmósfera, diseño no lineal y exploración profunda dieron origen al género conocido hoy como &lt;em&gt;metroidvania&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;Historia&lt;/h2&gt;&#xA;&lt;p&gt;Samus Aran debe viajar al planeta &lt;strong&gt;Zebes&lt;/strong&gt; para recuperar una criatura conocida como &lt;em&gt;Metroid&lt;/em&gt;, robada por los piratas espaciales.&lt;br&gt;&#xA;Entre pasillos oscuros y enemigos grotescos, cada mejora desbloquea nuevas zonas del mapa, fomentando la exploración constante.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

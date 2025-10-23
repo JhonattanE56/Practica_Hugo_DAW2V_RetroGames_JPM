@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:4015/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Oct 2025 20:05:06 +0200</lastBuildDate>
+    <atom:link href="//localhost:4015/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showcase</title>
+      <link>//localhost:4015/showcase/</link>
+      <pubDate>Thu, 23 Oct 2025 20:05:06 +0200</pubDate>
+      <guid>//localhost:4015/showcase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acerca de</title>
+      <link>//localhost:4015/about/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/about/</guid>
+      <description>&lt;h1 id=&#34;sobre-el-blog-retrogames&#34;&gt;Sobre el Blog RetroGames&lt;/h1&gt;&#xA;&lt;p&gt;Bienvenido a &lt;strong&gt;RetroGames&lt;/strong&gt;, un espacio dedicado a los videojuegos clásicos de &lt;strong&gt;NES&lt;/strong&gt; y &lt;strong&gt;SNES&lt;/strong&gt;. Aquí exploramos sus historias, secretos, curiosidades y la influencia que dejaron en generaciones de jugadores.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;nuestra-misión&#34;&gt;Nuestra misión&lt;/h2&gt;&#xA;&lt;p&gt;Queremos &lt;strong&gt;revivir la nostalgia&lt;/strong&gt; de los años 80 y 90 compartiendo contenido sobre las joyas del pasado.&lt;br&gt;&#xA;Desde reseñas y análisis, hasta guías y curiosidades técnicas, este blog busca mantener viva la magia del píxel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Super Mario 64</title>
+      <link>//localhost:4015/nintendo64/super-mario-64/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nintendo64/super-mario-64/</guid>
+      <description>&lt;h1 id=&#34;super-mario-64&#34;&gt;Super Mario 64&lt;/h1&gt;&#xA;&lt;p&gt;Lanzado en 1996 junto con la consola Nintendo 64, &lt;strong&gt;Super Mario 64&lt;/strong&gt; redefinió el concepto de los juegos en tres dimensiones.&lt;br&gt;&#xA;Fue el primer título de Mario completamente 3D y marcó un antes y un después en la historia de los videojuegos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;descripción&#34;&gt;Descripción&lt;/h2&gt;&#xA;&lt;p&gt;En este juego, Mario debe rescatar a la Princesa Peach explorando el &lt;strong&gt;Castillo de Peach&lt;/strong&gt;, donde cada cuadro actúa como un portal a diferentes mundos llenos de desafíos.&lt;br&gt;&#xA;Cada nivel ofrece estrellas escondidas, secretos y plataformas ingeniosas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Super Mario Bros.</title>
+      <link>//localhost:4015/nes/super-mario-bros/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nes/super-mario-bros/</guid>
+      <description>&lt;h1 id=&#34;super-mario-bros&#34;&gt;Super Mario Bros.&lt;/h1&gt;&#xA;&lt;p&gt;Super Mario Bros. es el clásico de plataformas que definió una generación.&lt;br&gt;&#xA;Lanzado en 1985 por Nintendo, introdujo a Mario y Luigi en un mundo de aventuras y desafíos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Niveles desafiantes y secretos ocultos.&lt;/li&gt;&#xA;&lt;li&gt;Poderes clásicos como el hongo y la flor de fuego.&lt;/li&gt;&#xA;&lt;li&gt;Banda sonora reconocible al instante.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png&#34; alt=&#34;Super Mario Bros.&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;curiosidades&#34;&gt;Curiosidades&lt;/h3&gt;&#xA;&lt;p&gt;¿Sabías que el &amp;ldquo;Minus World&amp;rdquo; es uno de los glitches más famosos del juego? &lt;a href=&#34;https://es.wikipedia.org/wiki/Super_Mario_Bros.&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Super Mario Kart</title>
+      <link>//localhost:4015/snes/super-mario-kart/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/snes/super-mario-kart/</guid>
+      <description>&lt;h1 id=&#34;super-mario-kart&#34;&gt;Super Mario Kart&lt;/h1&gt;&#xA;&lt;p&gt;Lanzado en 1992, &lt;strong&gt;Super Mario Kart&lt;/strong&gt; revolucionó el género de carreras al introducir &lt;em&gt;power-ups&lt;/em&gt;, circuitos temáticos y competencia multijugador local que definió las reuniones gamer de los 90.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;jugabilidad&#34;&gt;Jugabilidad&lt;/h2&gt;&#xA;&lt;p&gt;El juego presenta 8 personajes del universo de Mario y circuitos llenos de trampas, rampas y superficies resbaladizas.&lt;br&gt;&#xA;Las pistas de la &lt;strong&gt;Copa Champiñón&lt;/strong&gt; y la &lt;strong&gt;Copa Estrella&lt;/strong&gt; son legendarias por su dificultad.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Controles sencillos pero con profundidad estratégica.&lt;/li&gt;&#xA;&lt;li&gt;Modo multijugador versus y batalla con globos.&lt;/li&gt;&#xA;&lt;li&gt;Uso del chip &lt;strong&gt;Mode 7&lt;/strong&gt; del SNES para simular pseudo-3D.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG&#34; alt=&#34;Super Mario Kart&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Super Metroid</title>
+      <link>//localhost:4015/snes/super-metroid/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/snes/super-metroid/</guid>
+      <description>&lt;h1 id=&#34;super-metroid&#34;&gt;Super Metroid&lt;/h1&gt;&#xA;&lt;p&gt;Lanzado en 1994 para Super Nintendo, &lt;strong&gt;Super Metroid&lt;/strong&gt; es uno de los juegos más influyentes de todos los tiempos.&lt;br&gt;&#xA;Su atmósfera, diseño no lineal y exploración profunda dieron origen al género conocido hoy como &lt;em&gt;metroidvania&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;Historia&lt;/h2&gt;&#xA;&lt;p&gt;Samus Aran debe viajar al planeta &lt;strong&gt;Zebes&lt;/strong&gt; para recuperar una criatura conocida como &lt;em&gt;Metroid&lt;/em&gt;, robada por los piratas espaciales.&lt;br&gt;&#xA;Entre pasillos oscuros y enemigos grotescos, cada mejora desbloquea nuevas zonas del mapa, fomentando la exploración constante.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Legend of Zelda</title>
+      <link>//localhost:4015/nes/the-legend-of-zelda/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nes/the-legend-of-zelda/</guid>
+      <description>&lt;h1 id=&#34;the-legend-of-zelda&#34;&gt;The Legend of Zelda&lt;/h1&gt;&#xA;&lt;p&gt;The Legend of Zelda revolucionó los juegos de aventura y exploración en 1986.&lt;br&gt;&#xA;Sigue las hazañas de Link mientras salva a la Princesa Zelda en el reino de Hyrule.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mundo abierto e innovador para su época.&lt;/li&gt;&#xA;&lt;li&gt;Inventario y gestión de objetos.&lt;/li&gt;&#xA;&lt;li&gt;Puzzles y mazmorras memorables.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png/250px-Legend_of_zelda_cover_%28with_cartridge%29_gold.png&#34; alt=&#34;The Legend of Zelda&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;curiosidades&#34;&gt;Curiosidades&lt;/h3&gt;&#xA;&lt;p&gt;El primer juego que permitió guardar el progreso en un cartucho de NES.&lt;br&gt;&#xA;&lt;a href=&#34;https://es.wikipedia.org/wiki/The_Legend_of_Zelda&#34;&gt;Descubre más&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>The Legend of Zelda: Ocarina of Time</title>
+      <link>//localhost:4015/nintendo64/zelda-ocarina-of-time/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nintendo64/zelda-ocarina-of-time/</guid>
+      <description>&lt;h1 id=&#34;the-legend-of-zelda-ocarina-of-time&#34;&gt;The Legend of Zelda: Ocarina of Time&lt;/h1&gt;&#xA;&lt;p&gt;Considerado por muchos como uno de los mejores videojuegos de la historia, &lt;strong&gt;Ocarina of Time&lt;/strong&gt; llevó la saga a la era 3D con una ambientación épica y una historia inolvidable.&lt;br&gt;&#xA;Desarrollado por Nintendo EAD y lanzado en 1998, marcó un nuevo estándar para la narrativa y jugabilidad en los juegos de aventuras.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;Historia&lt;/h2&gt;&#xA;&lt;p&gt;Link debe salvar el Reino de &lt;strong&gt;Hyrule&lt;/strong&gt; del malvado &lt;strong&gt;Ganondorf&lt;/strong&gt;, viajando en el tiempo y usando la misteriosa &lt;em&gt;Ocarina del Tiempo&lt;/em&gt; para resolver puzles, descubrir secretos y enfrentarse a mazmorras llenas de desafíos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

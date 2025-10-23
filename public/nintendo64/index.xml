@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo64s on Terminal</title>
+    <link>//localhost:4015/nintendo64/</link>
+    <description>Recent content in Nintendo64s on Terminal</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4015/nintendo64/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Super Mario 64</title>
+      <link>//localhost:4015/nintendo64/super-mario-64/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nintendo64/super-mario-64/</guid>
+      <description>&lt;h1 id=&#34;super-mario-64&#34;&gt;Super Mario 64&lt;/h1&gt;&#xA;&lt;p&gt;Lanzado en 1996 junto con la consola Nintendo 64, &lt;strong&gt;Super Mario 64&lt;/strong&gt; redefinió el concepto de los juegos en tres dimensiones.&lt;br&gt;&#xA;Fue el primer título de Mario completamente 3D y marcó un antes y un después en la historia de los videojuegos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;descripción&#34;&gt;Descripción&lt;/h2&gt;&#xA;&lt;p&gt;En este juego, Mario debe rescatar a la Princesa Peach explorando el &lt;strong&gt;Castillo de Peach&lt;/strong&gt;, donde cada cuadro actúa como un portal a diferentes mundos llenos de desafíos.&lt;br&gt;&#xA;Cada nivel ofrece estrellas escondidas, secretos y plataformas ingeniosas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Legend of Zelda: Ocarina of Time</title>
+      <link>//localhost:4015/nintendo64/zelda-ocarina-of-time/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nintendo64/zelda-ocarina-of-time/</guid>
+      <description>&lt;h1 id=&#34;the-legend-of-zelda-ocarina-of-time&#34;&gt;The Legend of Zelda: Ocarina of Time&lt;/h1&gt;&#xA;&lt;p&gt;Considerado por muchos como uno de los mejores videojuegos de la historia, &lt;strong&gt;Ocarina of Time&lt;/strong&gt; llevó la saga a la era 3D con una ambientación épica y una historia inolvidable.&lt;br&gt;&#xA;Desarrollado por Nintendo EAD y lanzado en 1998, marcó un nuevo estándar para la narrativa y jugabilidad en los juegos de aventuras.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;Historia&lt;/h2&gt;&#xA;&lt;p&gt;Link debe salvar el Reino de &lt;strong&gt;Hyrule&lt;/strong&gt; del malvado &lt;strong&gt;Ganondorf&lt;/strong&gt;, viajando en el tiempo y usando la misteriosa &lt;em&gt;Ocarina del Tiempo&lt;/em&gt; para resolver puzles, descubrir secretos y enfrentarse a mazmorras llenas de desafíos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

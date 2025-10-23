@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nes on Terminal</title>
+    <link>//localhost:4015/nes/</link>
+    <description>Recent content in Nes on Terminal</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4015/nes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Super Mario Bros.</title>
+      <link>//localhost:4015/nes/super-mario-bros/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nes/super-mario-bros/</guid>
+      <description>&lt;h1 id=&#34;super-mario-bros&#34;&gt;Super Mario Bros.&lt;/h1&gt;&#xA;&lt;p&gt;Super Mario Bros. es el clásico de plataformas que definió una generación.&lt;br&gt;&#xA;Lanzado en 1985 por Nintendo, introdujo a Mario y Luigi en un mundo de aventuras y desafíos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Niveles desafiantes y secretos ocultos.&lt;/li&gt;&#xA;&lt;li&gt;Poderes clásicos como el hongo y la flor de fuego.&lt;/li&gt;&#xA;&lt;li&gt;Banda sonora reconocible al instante.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png&#34; alt=&#34;Super Mario Bros.&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;curiosidades&#34;&gt;Curiosidades&lt;/h3&gt;&#xA;&lt;p&gt;¿Sabías que el &amp;ldquo;Minus World&amp;rdquo; es uno de los glitches más famosos del juego? &lt;a href=&#34;https://es.wikipedia.org/wiki/Super_Mario_Bros.&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Legend of Zelda</title>
+      <link>//localhost:4015/nes/the-legend-of-zelda/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:4015/nes/the-legend-of-zelda/</guid>
+      <description>&lt;h1 id=&#34;the-legend-of-zelda&#34;&gt;The Legend of Zelda&lt;/h1&gt;&#xA;&lt;p&gt;The Legend of Zelda revolucionó los juegos de aventura y exploración en 1986.&lt;br&gt;&#xA;Sigue las hazañas de Link mientras salva a la Princesa Zelda en el reino de Hyrule.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mundo abierto e innovador para su época.&lt;/li&gt;&#xA;&lt;li&gt;Inventario y gestión de objetos.&lt;/li&gt;&#xA;&lt;li&gt;Puzzles y mazmorras memorables.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png/250px-Legend_of_zelda_cover_%28with_cartridge%29_gold.png&#34; alt=&#34;The Legend of Zelda&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;curiosidades&#34;&gt;Curiosidades&lt;/h3&gt;&#xA;&lt;p&gt;El primer juego que permitió guardar el progreso en un cartucho de NES.&lt;br&gt;&#xA;&lt;a href=&#34;https://es.wikipedia.org/wiki/The_Legend_of_Zelda&#34;&gt;Descubre más&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
